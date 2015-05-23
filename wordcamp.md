@@ -1,3 +1,0 @@
-# WordCamp
-
-## London
