@@ -1,5 +1,5 @@
 # Talkshelf
-A collection of slides from web industry talks I've witnessed at various conferences and meet-ups. 
+A collection of slides from web industry talks I've witnessed at various conferences and meet-ups that I'd like to hang onto for future reference.
 
 ## Shelves
 
