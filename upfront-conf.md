@@ -10,4 +10,4 @@
 
 [Richard Rutter - Web Typography You Could Be Doing Now](http://webtypography.net/talks/upfront2015/)
 
-[Yesenia Perez-Cruz - Design Decisions through the Lens of Performance LINK TBC]()
+[Yesenia Perez-Cruz - Design Decisions through the Lens of Performance](https://speakerdeck.com/yeseniaperezcruz/design-decisions-through-the-lens-of-a-performance-budget)
