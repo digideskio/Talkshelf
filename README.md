@@ -3,10 +3,6 @@ A collection of slides from web industry talks I've witnessed at various confere
 
 ## Shelves
 
-[My Talks](https://github.com/davetgreen/Talkshelf/blob/master/my-talks.md)
-
-* * * 
-
 [Front-end North](https://github.com/davetgreen/Talkshelf/blob/master/front-end-north.md)
 
 [Manchester FRED](https://github.com/davetgreen/Talkshelf/blob/master/mcr-fred.md)
@@ -16,3 +12,7 @@ A collection of slides from web industry talks I've witnessed at various confere
 [WordCamps](https://github.com/davetgreen/Talkshelf/blob/master/wordcamps.md)
 
 [WordPress Meet-ups](https://github.com/davetgreen/Talkshelf/blob/master/wp-meetups.md)
+
+* * * 
+
+[My Talks](https://github.com/davetgreen/Talkshelf/blob/master/my-talks.md)
