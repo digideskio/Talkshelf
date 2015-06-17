@@ -2,8 +2,6 @@
 
 ## 2015 - Manchester
 
-Brad Frost - Atomic Design - LINK TBC
-
 [Alicia Sedlock - Jumping into Front-end Testing](https://speakerdeck.com/aliciasedlock/jumping-into-front-end-testing)
 
 [Dean Hume - Faster Mobile Websites](https://speakerdeck.com/deanohume/faster-mobile-websites)
